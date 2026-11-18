@@ -89,8 +89,8 @@ const students = [
     // --- STUDENT 9 ---
     {
         id: 9,
-        firstName: "ប៉េត",
-        lastName: "មិថុនា",
+        firstName: "បូរ៉ា",
+        lastName: "វេហា",
         gender: "Male",
         teams: { ADS: "Team 1"}
     },
@@ -161,7 +161,7 @@ const students = [
     // --- STUDENT 18 ---
     {
         id: 18,
-        firstName: "សុីណេត",
+        firstName: "ស៊ីណេត",
         lastName: "ផានីន",
         gender: "Female",
         teams: { ADS: "Team 3"}
@@ -247,13 +247,7 @@ const students = [
         teams: { ADS: "Team 5"}
     },
     // --- STUDENT 29 ---
-    {
-        id: 29,
-        firstName: "Student",
-        lastName: "29",
-        gender: "Male",
-        teams: { ADS: "Team 5", DC: "Team 5", DB: "Team 3", CA: "Team 2", JAVA: "Team 1", ENGLISH: "Team 6" }
-    },
+    
     // --- STUDENT 30 ---
     {
         id: 30,
@@ -332,6 +326,13 @@ const students = [
         firstName: "ផាត",
         lastName: "មុីលី",
         gender: "Female",
+        teams: { ADS: "Team 7" }
+    },
+    {
+        id: 39,
+        firstName: "ប៉េត",
+        lastName: "មិថុនា",
+        gender: "Male",
         teams: { ADS: "Team 7" }
     },
     // --- STUDENT 40 ---
