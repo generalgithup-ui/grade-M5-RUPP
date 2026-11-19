@@ -105,8 +105,8 @@ const students = [
     // --- STUDENT 11 ---
     {
         id: 11,
-        firstName: "ឌី",
-        lastName: "ផានិត",
+        firstName: "វង",
+        lastName: "ឌីផានិត",
         gender: "Male",
         teams: { ADS: "Team 2"}
     },
@@ -137,7 +137,7 @@ const students = [
     // --- STUDENT 15 ---
     {
         id: 15,
-        firstName: "លីម",
+        firstName: "លឹម",
         lastName: "សុខឡេង",
         gender: "Female",
         teams: { ADS: "Team 2" }
@@ -288,6 +288,13 @@ const students = [
         gender: "Male",
         teams: { ADS: "Team 6" }
     },
+    {
+        id: 52,
+        firstName: "ពឿន",
+        lastName: "ណាក់",
+        gender: "Male",
+        teams: { ADS: "Team 6"}
+    },
     // --- STUDENT 35 ---
     {
         id: 35,
@@ -346,7 +353,7 @@ const students = [
     // --- STUDENT 41 ---
     {
         id: 41,
-        firstName: "ផែង",
+        firstName: "ផែន",
         lastName: "លីយូ",
         gender: "Male",
         teams: { ADS: "Team 8" }
@@ -418,35 +425,37 @@ const students = [
         teams: { ADS: "Team 10" }
     },
     // --- STUDENT 51 ---
-    {
-        id: 51,
-        firstName: "បូរ៉ា",
-        lastName: "វេហា",
-        gender: "Male",
-        teams: { ADS: "Team 11" }
-    },
+   
     // --- STUDENT 52 ---
-    {
-        id: 52,
-        firstName: "Student",
-        lastName: "52",
-        gender: "Female",
-        teams: { ADS: "Team 11", DC: "Team 7", DB: "Team 1", CA: "Team 7", JAVA: "Team 8", ENGLISH: "Team 1" }
-    },
+    
     // --- STUDENT 53 ---
     {
         id: 53,
-        firstName: "Student",
-        lastName: "53",
+        firstName: "ហុក",
+        lastName: "ទីលិ",
         gender: "Male",
-        teams: { ADS: "Team 11", DC: "Team 8", DB: "Team 7", CA: "Team 8", JAVA: "Team 1", ENGLISH: "Team 7" }
+        teams: { ADS: "Team 11" }
     },
     // --- STUDENT 54 ---
     {
         id: 54,
-        firstName: "Student",
-        lastName: "54",
-        gender: "Female",
-        teams: { ADS: "Team 11", DC: "Team 9", DB: "Team 8", CA: "Team 9", JAVA: "Team 7", ENGLISH: "Team 8" }
+        firstName: "ប៉ាត់",
+        lastName: "សុធា",
+        gender: "Male",
+        teams: { ADS: "Team 11" }
+    },
+    {
+        id: 54,
+        firstName: "ធត់",
+        lastName: "ឌៀរ៉ូ",
+        gender: "Male",
+        teams: { ADS: "Team 11" }
+    },
+    {
+        id: 54,
+        firstName: "ផន",
+        lastName: "វិច្ឆិកា",
+        gender: "Male",
+        teams: { ADS: "Team 11" }
     }
 ];
