@@ -142,6 +142,13 @@ const students = [
         gender: "Female",
         teams: { ADS: "Team 2" }
     },
+    {
+        id: 54,
+        firstName: "ប៉ាត់",
+        lastName: "សុធា",
+        gender: "Male",
+        teams: { ADS: "Team 2" }
+    },
     // --- STUDENT 16 ---
     {
         id: 16,
@@ -437,13 +444,7 @@ const students = [
         teams: { ADS: "Team 11" }
     },
     // --- STUDENT 54 ---
-    {
-        id: 54,
-        firstName: "ប៉ាត់",
-        lastName: "សុធា",
-        gender: "Male",
-        teams: { ADS: "Team 11" }
-    },
+   
     {
         id: 54,
         firstName: "ធត់",
